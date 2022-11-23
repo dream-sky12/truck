@@ -104,12 +104,12 @@ The application run on port 8181 on your host computer.
 - If you directly run the application without docker
   
   Please send GET request to `localhost:8080/{Path}`  
-  Example: Send GET request to `localhost:8080/trucks/all` to get all trucks data.
+  Example: Send GET request to `localhost:8080/truck/all` to get all trucks data.
 
 - If you deploy in docker and run in docker
 
   On your host computer/server, please send GET request to `localhost:8181/{Path}`
-  Example: Send GET request to `localhost:8181/trucks/all` to get all trucks data.
+  Example: Send GET request to `localhost:8181/truck/all` to get all trucks data.
 
 ## Notes
 
