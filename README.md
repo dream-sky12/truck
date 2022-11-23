@@ -14,10 +14,11 @@ Author: Zhang Zhe, Dream_Sky12@hotmail.com
 ## Overview
 
 This project mainly focuses on getting data of food trucks of San Francisco which are open data online.
+Preview data can be access by https://data.sfgov.org/Economy-and-Community/Mobile-Food-Facility-Permit/rqzj-sfat/data
 
 ## Develop Guide
 
-This is a Spring boot project with Maven based on Java 8. When the application runs, it will send GET request to get data from offical data URL: https://data.sfgov.org/resource/rqzj-sfat.json
+This is a Spring boot project with Maven based on Java 8. When the application runs, it will send GET request to get data from offical data getting API: https://data.sfgov.org/resource/rqzj-sfat.json
 
 Steps for development:
 
